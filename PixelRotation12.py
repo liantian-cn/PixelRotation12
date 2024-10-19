@@ -59,7 +59,7 @@ while True:
         print("愤怒之锤")
         pyautogui.press("num5")
     elif pixel_color == (0, 255, 0):
-        print("荣耀圣令")111
+        print("荣耀圣令")
         pyautogui.press("num6")
     elif pixel_color == (0, 255, 128):
         print("审判")
