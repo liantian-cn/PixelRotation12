@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: PixelRotation12
 ## Notes: A simple color block plugin.
 ## Version: 1.0
